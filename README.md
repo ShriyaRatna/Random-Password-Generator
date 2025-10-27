@@ -34,7 +34,7 @@ Copy functionality uses the **Clipboard API** for seamless copying.
 ## How to Use
 1. Clone or download this repository  
    ```
-   git clone https://github.com/yourusername/random-password-generator.git
+   git clone https://github.com/ShriyaRatna/random-password-generator.git
    ```
 2. Open index.html in your browser
 3. Click Generate
